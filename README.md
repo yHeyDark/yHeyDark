@@ -33,3 +33,5 @@
 </div>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Riot&pause=1020&color=B0C4DE&background=1BFF3000&random=false&width=435&lines=Obrigado+pela+aten%C3%A7%C3%A3o+!!!" alt="Typing SVG" /></a>
+<br>
+![snake gif](https://github.com/yHeyDark/yHeyDark/blob/output/github-contribution-grid-snake.svg)
