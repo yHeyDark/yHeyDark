@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Riot&pause=1041&color=B0C4DE&background=1BFF3000&random=false&width=435&lines=Ol%C3%A1+me+chamo+Derik;Bem-vindo(a)+ao+meu+Github" alt="Typing SVG" /></a>
-- 🌱 Estou Cursando Desenvolvivento de sistemas
+- 🌱 Técnico em Desenvolvimento de sistemas 
 - 😄 Gosto da Área de Back - end e cibersegurança
 - 💼 Estou a procura de projetos interessantes.
 - 📫 Você pode me contatar através do meu ([Email]:derikrocha9@gmail.com).
