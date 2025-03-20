@@ -1,35 +1,56 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Riot&pause=1041&color=B0C4DE&background=1BFF3000&random=false&width=435&lines=Ol%C3%A1+me+chamo+Derik;Bem-vindo(a)+ao+meu+Github" alt="Typing SVG" /></a>
-- 🌱 Técnico em Desenvolvimento de sistemas 
-- 😄 Gosto da Área de Back - end e cibersegurança
-- 💼 Estou a procura de projetos interessantes.
-- 📫 Você pode me contatar através do meu ([Email]:derikrocha9@gmail.com).
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Riot&pause=1041&color=FFFFFF&background=00000000&random=false&width=435&lines=Ol%C3%A1+me+chamo+Derik;Bem-vindo(a)+ao+meu+Github" alt="Typing SVG" /></a>
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJpNWZxNnNpZmtkYzc4YmJyd3dkajZ6MGxka2tobHp4NzRza3BsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="pixel Banner" width="800" />
+</div>
+
+## 🦇 Sobre mim
+- 🌱 **Técnico** em Desenvolvimento de Sistemas  
+- 🎓 **Tecnólogo** em Sistemas para Internet  
+- 😄 Interesse em **Back-end e Cibersegurança**  
+- 💼 Buscando **projetos interessantes**  
+- 📫 Contato: [Email](mailto:derikrocha9@gmail.com)  
+
+## 🦸‍♂️ Estatísticas
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yHeyDark&theme=transparent&locale=pt-br"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yHeyDark&theme=dark&locale=pt-br"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yHeyDark&layout=compact&langs_count=8&card_width=320&theme=transparent&locale=pt-br" />
+  <img height=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yHeyDark&layout=compact&langs_count=8&card_width=320&theme=dark&locale=pt-br" />
 </a>
-<br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Derik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Derik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Derik-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Derik-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Derik-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />          
+
+## 🦇 Tecnologias
+### Frontend
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
-<br>
-### Studying in this moment:
-<div style="display: inline_block"><br>
-<img align="center" alt="Derik-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-<img align="center" alt="Derik-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Derik-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+
+### Backend
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
 </div>
-<br>
+
+## 🦇 Visitantes
 <div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yHeyDark}/count.svg" /></p> 
-<br>
 </div>
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Riot&pause=1020&color=B0C4DE&background=1BFF3000&random=false&width=435&lines=Obrigado+pela+aten%C3%A7%C3%A3o+!!!" alt="Typing SVG" /></a>
+
+## 🐍 Cobrinha dos Commits
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yHeyDark/yHeyDark/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Riot&pause=1020&color=FFFFFF&background=00000000&random=false&width=435&lines=Obrigado+pela+aten%C3%A7%C3%A3o+!!!" alt="Typing SVG" /></a>
