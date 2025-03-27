@@ -7,9 +7,9 @@
 ## 🦇 Sobre mim
 - 🌱 **Técnico** em Desenvolvimento de Sistemas  
 - 🎓 **Tecnólogo** em Sistemas para Internet  
-- 😄 Interesse em **Back-end e Cibersegurança**  
-- 💼 Buscando **projetos interessantes**  
-- 📫 Contato: [Email](mailto:derikrocha9@gmail.com)  
+- 😄 Interesse em **Back-end**  
+- 💼 Buscando por **Projetos Interessantes**  
+- 📫 Contato: derikrocha9@gmail.com  
 
 ## 🦸‍♂️ Estatísticas
 <a href="https://github.com/anuraghazra/github-readme-stats">
